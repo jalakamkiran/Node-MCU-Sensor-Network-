@@ -11,4 +11,4 @@ I used a TCP server for this purpose. The TCP(Transfer Communication Protocol) g
 # Disadvantages
 1.It works only when you are connected to a same network.
 
-Iam trying to figure out how to access the data independently when we are connected on a diffrent netwrok.
+Iam trying to figure out how to access the data independently when we are connected on a different network.
